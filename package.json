@@ -16,7 +16,9 @@
   },
   "dependencies": {
     "gatsby": "^2.26.1",
+    "gatsby-plugin-sharp": "^2.6.8",
     "gatsby-source-wordpress-experimental": "^6.2.0",
+    "gatsby-transformer-sharp": "^2.5.10",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
